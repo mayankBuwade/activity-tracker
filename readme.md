@@ -1,7 +1,8 @@
-This project was made by following the MERN stack cousrse by The Net Ninja
+This project was made by following the MERN stack course by The Net Ninja
 I have modified features after completing the project
-_ added calendar:- User can add activities based on date
-_ edit feature:- User can edit past activities
+_ User can add activities based on date
+_ User can see activites based on date
+_ User can edit past activities
 
 .env setup:-
 create a .env (dot env) file in backend directory and write
